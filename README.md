@@ -43,7 +43,7 @@ An interactive web application built using **Streamlit** to experiment with cust
 
 ## 1. Clone this repository:
 ```
-git clone https://github.com/Hima-2001/Tensor_Playground
+git clone https://github.com/samee-2001/Tensor_Playground
 cd tf-playground-app
 ```
 ## 2. Install dependencies:
